@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fiero.play.hosting",
-    "port": 25658,
+    "ip": "nulo.play.hosting",
+    "port": 25688,
     "version": "1.21.1"
   },
   "position": {
