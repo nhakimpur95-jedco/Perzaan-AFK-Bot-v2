@@ -8,7 +8,7 @@
   "server": {
     "ip": "fiero.play.hosting",
     "port": 25658,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
